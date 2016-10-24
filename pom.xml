@@ -54,4 +54,10 @@
         </plugins>
     </build>
     
+    <scm>
+        <connection>scm:git:git@github.com:tbrn/tbrn-web-basic.git</connection>
+        <developerConnection>scm:git:git@github.com:tbrn/tbrn-web-basic.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+    
 </project>
